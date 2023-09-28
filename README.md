@@ -23,8 +23,8 @@ traversing the computational graph in the backward direction.
 Install the requirements. Then, run the examples in the `examples` folder. The examples are:
 - `parameter_identification.py`: Identification of the inertia of a generator SMIB model:
 
-<img src="h_opt.jpg" alt="drawing" width="400"/>
+<img src="pics/h_opt.jpg" alt="drawing" width="400"/>
 
 - `parameter_optimization.py`: Optimization of the parameters of a PSS to maximize the damping of a generator SMIB model:
 
-<img src="pss_opt.jpg" alt="drawing" width="400"/>
+<img src="pics/pss_opt.jpg" alt="drawing" width="400"/>
