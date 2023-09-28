@@ -1,8 +1,7 @@
 # power-system-parameter-optimization
 ## Introduction
 This repository contains the code for the paper ["Parameter Identification and Optimization of Power
-System Models Using the Backpropagation Method"](todo) by [Georg Kordowich](https://www.ees.tf.fau.de/person/georg-kordowich/)
-and [Johann Jaeger](https://www.ees.tf.fau.de/person/johann-jaeger/).
+System Models Using the Backpropagation Method"](todo) by Georg Kordowich and Johann Jaeger.
 The repository contains simple examples for the identification of the parameters of a single machine infinite bus (SMIB)
 model and the optimization of the parameters of a PSS the facilitate maximum damping for the SMIB.
 
@@ -23,8 +22,8 @@ traversing the computational graph in the backward direction.
 Install the requirements. Then, run the examples in the `examples` folder. The examples are:
 - `parameter_identification.py`: Identification of the inertia of a generator SMIB model:
 
-<img src="pics/h_opt.jpg" alt="drawing" width="400"/>
+<img src="pics/h_opt.JPG" alt="drawing" width="400"/>
 
 - `parameter_optimization.py`: Optimization of the parameters of a PSS to maximize the damping of a generator SMIB model:
 
-<img src="pics/pss_opt.jpg" alt="drawing" width="400"/>
+<img src="pics/pss_opt.JPG" alt="drawing" width="400"/>
