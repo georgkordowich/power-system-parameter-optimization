@@ -6,7 +6,7 @@ The repository contains simple examples for the identification of the parameters
 model and the optimization of the parameters of a PSS the facilitate maximum damping for the SMIB.
 
 The code is written in Python 3.9 and uses the requirements listed in `requirements.txt`. The simulation part is
-strongly based on the works of ["Haugdal et al"](https://github.com/hallvar-h/DynPSSimPy), but required a simplification
+strongly based on the repository [here](https://github.com/hallvar-h/DynPSSimPy), but required a simplification
 and rewrite to facilitate the automatic differentiation.
 
 ## Method
