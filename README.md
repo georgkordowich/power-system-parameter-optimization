@@ -1,6 +1,5 @@
 # power-system-parameter-optimization
 ## Introduction
-This repository contains the code for the paper ["A Physics Informed Machine Learning Method for Power System Model Parameter Optimization"](https://arxiv.org/abs/2309.16579) by Georg Kordowich and Johann Jaeger.
 The repository contains simple examples for the identification of the parameters of a single machine infinite bus (SMIB)
 model and the optimization of the parameters of a PSS the facilitate maximum damping for the SMIB.
 
